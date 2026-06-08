@@ -1,0 +1,9 @@
+node_modules/
+dist/
+release/
+.env
+.claude/
+
+# Garder les artefacts de build dans release/ hors du repo (trop lourds)
+# Pour distribuer : upload manuel sur GitHub Releases
+
